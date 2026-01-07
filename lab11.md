@@ -18,3 +18,4 @@ Support cats will have the following properties:
 The boss will have the following properties:
   1. 4x the normal base HP of a battle cat
   2. Deal splash attacks with targeted damage on one player and lingering damage over 3 turns to the others, decided as a random percent from 1-30 of their remaining HP
+  3. If remaining HP after being attacked is less than 50%, heals itself 10% every 4 turns
